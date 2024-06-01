@@ -93,6 +93,7 @@ This directory contains all the essential documentation files for the project. B
 - [PULL_REQUEST_TEMPLATE.md](./docs/PULL_REQUEST_TEMPLATE.md): Template for submitting pull requests, ensuring contributors provide all necessary information for review.
 - [SECURITY.md](./docs/SECURITY.md): Guidelines on how to report security vulnerabilities, including contact information and response expectations.
 - [Surya_Siddhanta.md](./docs/Surya_Siddhanta.md): Information on the theory of "Surya Siddhanta," which forms the basis of this project's astronomical calculations.
+- [Appreciation_and_Acknowledgments.md](Appreciation_and_Acknowledgments.md): Appreciation and Acknowledgments
 
 Feel free to explore each document to understand more about the project and how you can contribute or utilize its features.
 

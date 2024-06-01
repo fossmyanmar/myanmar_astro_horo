@@ -2,7 +2,7 @@ VERSION 5.00
 Begin VB.Form frmBo 
    BackColor       =   &H8000000E&
    BorderStyle     =   0  'None
-   Caption         =   "                                                                                SURIA SIDDHANDA BO"
+   Caption         =   "SURIA SIDDHANDA BO"
    ClientHeight    =   9000
    ClientLeft      =   0
    ClientTop       =   0

@@ -4,7 +4,7 @@ Object = "{86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}#2.0#0"; "mscomct2.ocx"
 Begin VB.Form frmKDATA 
    BackColor       =   &H00C0FFC0&
    BorderStyle     =   0  'None
-   Caption         =   "                                                                      KAUNG HORO  Data Input Form"
+   Caption         =   "Myanmar Astro Horo  Data Input Form"
    ClientHeight    =   8340
    ClientLeft      =   135
    ClientTop       =   750

@@ -2,7 +2,7 @@ VERSION 5.00
 Begin VB.Form frmKOUTB 
    BackColor       =   &H00C0FFC0&
    BorderStyle     =   0  'None
-   Caption         =   "                                                               KAUNG HORO  Horoscope Circle & Dasa"
+   Caption         =   "Myanmar Astro Horo  Horoscope Circle & Dasa"
    ClientHeight    =   15345
    ClientLeft      =   0
    ClientTop       =   825

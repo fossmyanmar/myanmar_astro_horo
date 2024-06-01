@@ -2,7 +2,7 @@ VERSION 5.00
 Begin VB.MDIForm frmKHOROM 
    AutoShowChildren=   0   'False
    BackColor       =   &H8000000C&
-   Caption         =   "                      KAUNG HORO"
+   Caption         =   "Myanmar Astro Horo"
    ClientHeight    =   3195
    ClientLeft      =   60
    ClientTop       =   630
@@ -115,7 +115,7 @@ End Sub
 Private Sub mnux_Click()
 Dim x As Integer, str As String
 str = "  Are you sure you want to exit"
-x = MsgBox(str, vbYesNo + vbExclamation, "       KAUNG HORO")
+x = MsgBox(str, vbYesNo + vbExclamation, "Myanmar Astro Horo")
 If x = vbNo Then Exit Sub
 If x = vbYes Then End
 End
