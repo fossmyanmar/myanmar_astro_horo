@@ -95,7 +95,7 @@ The Surya Siddhanta is an ancient Indian astronomical text that serves as a fund
 
 ## ![Book Cover 4](./img/1373_UMMTDT.jpg)
 
-## သူရိယသဒ္ဓိတ ၅ ဆင့် ဂြိုလ်သွားပြက္ခဒိန်
+## သူရိယသိဒ္ဓတ ၅ ဆင့် ဂြိုလ်သွားပြက္ခဒိန်
 
 **Language** Burmese
 
