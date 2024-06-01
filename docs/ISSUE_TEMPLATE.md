@@ -1,5 +1,3 @@
----
-
 # ISSUE_TEMPLATE.md
 
 ## Issue Reporting Template

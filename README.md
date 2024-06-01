@@ -1,11 +1,8 @@
-
----
-
 # Myanmar Astronomy Horoscope
 # မြန်မာ ရိုးရာ ဇာတာဖွဲ့
 
-## Surya Siddhanta
-## သူရိယသိဒ္ဓန္တ 
+### Surya Siddhanta
+### သူရိယသိဒ္ဓန္တ 
 
 ## Description
 
@@ -83,3 +80,21 @@ For support or inquiries, you can reach the maintainers via:
 - **Open Ticket**: Use our issue tracking system on GitHub to open a ticket for any queries or issues.
 
 ---
+
+# Documentation Index
+
+This directory contains all the essential documentation files for the project. Below is an index of available documents:
+
+- [ARCHITECTURE.md](./docs/ARCHITECTURE.md): Detailed description of the project's architecture, including design decisions, components, and their interactions.
+- [CONTRIBUTING.md](./docs/CONTRIBUTING.md): Guidelines on how to contribute to the project, including coding standards, branch naming conventions, and pull request processes.
+- [DEPENDENCIES.md](./docs/DEPENDENCIES.md): List of dependencies required by the project, including their versions and where they can be obtained.
+- [ISSUE_TEMPLATE.md](./docs/ISSUE_TEMPLATE.md): Template for reporting issues, helping users to provide the necessary information for debugging and fixing issues.
+- [MIGRATION_GUIDE.md](./docs/MIGRATION_GUIDE.md): Guide on how to migrate from VB6 to the new languages (JavaScript and Python), including any tools, scripts, or processes used.
+- [PULL_REQUEST_TEMPLATE.md](./docs/PULL_REQUEST_TEMPLATE.md): Template for submitting pull requests, ensuring contributors provide all necessary information for review.
+- [SECURITY.md](./docs/SECURITY.md): Guidelines on how to report security vulnerabilities, including contact information and response expectations.
+- [Surya_Siddhanta.md](./docs/Surya_Siddhanta.md): Information on the theory of "Surya Siddhanta," which forms the basis of this project's astronomical calculations.
+
+Feel free to explore each document to understand more about the project and how you can contribute or utilize its features.
+
+---
+

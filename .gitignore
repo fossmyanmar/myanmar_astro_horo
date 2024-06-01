@@ -1,0 +1,112 @@
+# # Visual Basic 6
+# *.vbp
+# *.vbw
+# *.frm
+# *.frx
+# *.vbg
+# *.log
+# 
+# # Executable files
+# *.exe
+# *.dll
+# *.ocx
+
+# Compiled object files
+*.obj
+*.o
+*.pdb
+
+# Precompiled Headers
+*.pch
+
+# Backup files
+*.bak
+*.tmp
+*.old
+*.backup
+
+# Package files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Debug output directories
+Debug/
+Release/
+
+# User-specific files
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.opendb
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Node.js (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
+.yarn-integrity
+.next/
+
+# Python (if applicable)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+venv.bak/
+env.bak/
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Backup files
+*.bak
+
+# Build directories
+build/
+dist/
+
+# Temporary files
+tmp/
+temp/
+*.temp
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Reference files
+references/
+
+# Text
+*~

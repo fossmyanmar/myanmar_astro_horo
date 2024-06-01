@@ -1,5 +1,3 @@
----
-
 # SECURITY.md
 
 ## Security Policy

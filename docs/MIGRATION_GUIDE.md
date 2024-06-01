@@ -1,6 +1,3 @@
-
----
-
 # MIGRATION_GUIDE.md
 
 ## Migration Instructions

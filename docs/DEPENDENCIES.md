@@ -1,5 +1,3 @@
----
-
 # DEPENDENCIES
 
 ## VB6 Dependencies

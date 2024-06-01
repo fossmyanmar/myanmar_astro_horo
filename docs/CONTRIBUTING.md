@@ -1,6 +1,3 @@
-
----
-
 # CONTRIBUTING.md
 
 ## Contribution Guidelines

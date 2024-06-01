@@ -1,5 +1,3 @@
----
-
 # ARCHITECTURE.md
 
 ## Architecture Overview
@@ -31,5 +29,4 @@ This document will provide a detailed description of the project's architecture,
 
 We are currently working on documenting the architecture of the project. This section will be updated soon with comprehensive information to help you understand the overall structure and design of the application.
 
----
 
