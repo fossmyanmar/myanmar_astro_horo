@@ -84,7 +84,7 @@ We are working on migrating the project to modern languages and libraries such a
 
 For support or inquiries, you can reach the maintainers via:
 
-- **GitHub Issues**: [Open an Issue]((https://github.com/fossmyanmar/surya_siddhanta/issues)
+- **GitHub Issues**: [Open an Issue]((https://github.com/fossmyanmar/myanmar_astro_horo/issues)
 - **Open Ticket**: Use our issue tracking system on GitHub to open a ticket for any queries or issues.
 
 Thank you for contributing!
