@@ -104,3 +104,13 @@ Feel free to explore each document to understand more about the project and how 
 
 ---
 
+### Donor List
+
+| Donor Name         | Amount | Currency |
+|:--------------------|--------:|:----------|
+| Nyi Lynn Seck      | 500,000 | MMK      |
+| Kyaw Swar Thwin    | 25     | USD      |
+| Pyae Phyo Hein     | 100,000  | MMK      |
+| Thiha Aye Kyaw     | 740,000 | MMK      |
+
+---
