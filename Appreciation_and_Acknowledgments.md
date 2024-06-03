@@ -27,12 +27,13 @@ Comments of Financial:
 
 ### Donor List
 
-| Donor Name         | Amount | Currency |
-|:--------------------|--------:|:----------|
+| Donor Name         | Amount  | Currency |
+|:-------------------|--------:|:---------|
 | Nyi Lynn Seck      | 500,000 | MMK      |
-| Kyaw Swar Thwin    | 25     | USD      |
-| Pyae Phyo Hein     | 100,000  | MMK      |
+| Kyaw Swar Thwin    | 25      | USD      |
+| Pyae Phyo Hein     | 100,000 | MMK      |
 | Thiha Aye Kyaw     | 740,000 | MMK      |
+| Aung Myat Thu      | 300,000 | MMK      |
 
 ## GitHub Stars and Forks
 
