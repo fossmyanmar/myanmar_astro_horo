@@ -27,13 +27,14 @@ Comments of Financial:
 
 ### Donor List
 
-| Donor Name         | Amount  | Currency |
+| Donor Name         |  Amount | Currency |
 |:-------------------|--------:|:---------|
 | Nyi Lynn Seck      | 500,000 | MMK      |
-| Kyaw Swar Thwin    | 25      | USD      |
-| Pyae Phyo Hein     | 100,000 | MMK      |
-| Thiha Aye Kyaw     | 740,000 | MMK      |
-| Aung Myat Thu      | 300,000 | MMK      |
+| [Kyaw Swar Thwin](https://github.com/kyawswarthwin)   | 25      | USD      |
+| [Pyae Phyo Hein](https://github.com/pyaephyohein)     | 100,000 | MMK      |
+| [Thiha Aye Kyaw](https://github.com/frozencity)       | 740,000 | MMK      |
+| [Aung Myat Thu](https://github.com/zenzue)            | 300,000 | MMK      |
+| [Sandar Min Aye](https://github.com/sandarma)         | 50 | SGD      |
 
 ## GitHub Stars and Forks
 
