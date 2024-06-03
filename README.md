@@ -88,9 +88,9 @@ This directory contains all the essential documentation files for the project. B
 - [ARCHITECTURE.md](./docs/ARCHITECTURE.md): Detailed description of the project's architecture, including design decisions, components, and their interactions.
 - [CONTRIBUTING.md](./docs/CONTRIBUTING.md): Guidelines on how to contribute to the project, including coding standards, branch naming conventions, and pull request processes.
 - [DEPENDENCIES.md](./docs/DEPENDENCIES.md): List of dependencies required by the project, including their versions and where they can be obtained.
-- [ISSUE_TEMPLATE.md](./docs/ISSUE_TEMPLATE.md): Template for reporting issues, helping users to provide the necessary information for debugging and fixing issues.
+- [ISSUE_TEMPLATE.md](./ISSUE_TEMPLATE.md): Template for reporting issues, helping users to provide the necessary information for debugging and fixing issues.
 - [MIGRATION_GUIDE.md](./docs/MIGRATION_GUIDE.md): Guide on how to migrate from VB6 to the new languages (JavaScript and Python), including any tools, scripts, or processes used.
-- [PULL_REQUEST_TEMPLATE.md](./docs/PULL_REQUEST_TEMPLATE.md): Template for submitting pull requests, ensuring contributors provide all necessary information for review.
+- [PULL_REQUEST_TEMPLATE.md](./PULL_REQUEST_TEMPLATE.md): Template for submitting pull requests, ensuring contributors provide all necessary information for review.
 - [SECURITY.md](./docs/SECURITY.md): Guidelines on how to report security vulnerabilities, including contact information and response expectations.
 - [Surya_Siddhanta.md](./docs/Surya_Siddhanta.md): Information on the theory of "Surya Siddhanta," which forms the basis of this project's astronomical calculations.
 - [Appreciation_and_Acknowledgments.md](Appreciation_and_Acknowledgments.md): Appreciation and Acknowledgments
