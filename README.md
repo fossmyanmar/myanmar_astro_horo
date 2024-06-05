@@ -114,5 +114,6 @@ Feel free to explore each document to understand more about the project and how 
 | [Thiha Aye Kyaw](https://github.com/frozencity)       | 740,000 | MMK      |
 | [Aung Myat Thu](https://github.com/zenzue)            | 300,000 | MMK      |
 | [Sandar Min Aye](https://github.com/sandarma)         | 50 | SGD      |
+| [Pyae Sone](https://github.com/pyaesone-gipsy)        | 50,000 | MMK       |
 
 ---
