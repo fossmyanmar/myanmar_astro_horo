@@ -1,0 +1,2276 @@
+[
+  {
+    "Form Name": "Caption",
+    "Character": "Font Name",
+    "Font Name": "",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label50",
+    "Character": "N*dK[f",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဂြိုဟ်"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "wdxD",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "တိထီ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "Nrif",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "မြင်"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "pif",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "စင်"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "yO�ef;",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ပဥ္စန်း"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "OD;",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဦး"
+  },
+  {
+    "Form Name": "Label lbl77",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl73",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "9",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "8",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "6",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "5",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "4",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "3",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "2",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label49",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label49",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label49",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label49",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label49",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label49",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label49",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label49",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label49",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl10",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl11",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl12",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl13",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl14",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl15",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl16",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl17",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl18",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl19",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl20",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl21",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl22",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl23",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl24",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl25",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl26",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl27",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl28",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl29",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl30",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl31",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl32",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl33",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl34",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl35",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl36",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl37",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl38",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl39",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl41",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl42",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl43",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl45",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl46",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl47",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl48",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl49",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl50",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl51",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl52",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl53",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl54",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl55",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl56",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl57",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl58",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl59",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl60",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl61",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl62",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl63",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl64",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl65",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl66",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl67",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl68",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl69",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl70",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl71",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl72",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl74",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl75",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl76",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl78",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl79",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl80",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl81",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl82",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl83",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl84",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl85",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl86",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl87",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl88",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl89",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl90",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl91",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl92",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl93",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl94",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl95",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl96",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl97",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl98",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl99",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl100",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl101",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl102",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl103",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl104",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl105",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl106",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl107",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl108",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl109",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl110",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl111",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl112",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl113",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl114",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl115",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl116",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl117",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl118",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl119",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl120",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl121",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl122",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl123",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl124",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl125",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl126",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl127",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl128",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl165",
+    "Character": "aZ,swk ou�&&mZf        uvd,k*f          ESpfMuGif;       &&0dzk#      &&moD a0g[m&&rmo",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဇေယျတု သက္ကရာဇ် ကလိယုဂ် နှစ်ကြွင်း ရဝိ‌ဖု‌ဋ ရာသီ ဝေါဟာရမာသ"
+  },
+  {
+    "Form Name": "Label lbl168",
+    "Character": "&&uf             aeY?puf     em&&D    rdepf/Nrefrm      csufwD;ausmf",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ရက် နေ့၊စက် နာရီ မိနစ်၊မြန်မာ ချက်တီး‌ကျော်"
+  },
+  {
+    "Form Name": "Label lbl176",
+    "Character": "a[m&&wf           Mwif;      e0if;? v*fpD;eu�wf           vHk;      yg'f      C#D       0dC#D",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဟောရက် တြင်း နဝင်း၊လဂ်ဇီးနက္ခတ် လုံး ပါဒ် ဃဋီ ဝိဃဋီ "
+  },
+  {
+    "Form Name": "Label lbl190",
+    "Character": "em&&D     yg'f    ADZem     tc&&m      0dc&&m       v*f           pef;",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "နာရီ ပါဒ် ဗီဇနာ အခရာ ဝိခရာ လဂ် စန်း"
+  },
+  {
+    "Form Name": "Label lbl196",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl197",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl198",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl199",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl201",
+    "Character": "\"\"ek",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဓနု"
+  },
+  {
+    "Form Name": "Label lbl202",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl203",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl204",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl205",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl206",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl207",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl208",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl209",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl210",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl211",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl212",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl213",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl214",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl215",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl217",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl219",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl221",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl224",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl227",
+    "Character": "xufv*fpD;vsuf",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ထက်လဂ်စီးလျက်"
+  },
+  {
+    "Form Name": "Label lbl228",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl229",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl231",
+    "Character": "owdkY    bGm;oefYpifonf?emrH                           \\Zmwm?touf120&&Snfapaom0f/",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "သတို့ ဘွားသန့်စင်သည်၊ နာမံ ၏ဇာတာ၊အသက်၁၂၀ရှည်စေသော်ဝ်။"
+  },
+  {
+    "Form Name": "Label lbl233",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl234",
+    "Character": "234",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "1",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "&&moD",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ရာသီ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "v",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "လ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "udwf",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ကိတ်"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "[k",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဟု"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "ae",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "နေ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "Bum",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ကြာ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "aw;",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "တေး"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "[l;",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဟူး"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "*g",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဂါ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "vm",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "လာ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "aEG",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "နွေ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "&&mZ",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ရာဇ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "a,m",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "‌ယော"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "ykwd",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ပုတိ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "t\"\"d",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "အဓိ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "1",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "1",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "1",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "1",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "1",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "Asm",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဗျာ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "vm",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "လာ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "ur�",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ကမ္မ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "ok",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "သု"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "r",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "မ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "y",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ပ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "tm",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "အာ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "yk",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ပု"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "A",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဗ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "o",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "သ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "u",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "က"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "w",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "တ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "BuE�D",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ကြန္တီ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "0dau�y",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဝိက္ခေပ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "vdw�m",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "လိတ္တာ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "tHom",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "အံသာ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "oGm;yHk",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "သွားပုံ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "oD&&d",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "သီရိ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": ",o",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ယသ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "aom",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "သော"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "r&&P",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "မရဏ"
+  },
+  {
+    "Form Name": "Label lbl235",
+    "Character": "b*F",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဘင်္ဂ"
+  },
+  {
+    "Form Name": "Label lbl129",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl129",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl129",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl129",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl129",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl129",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl129",
+    "Character": "tHom     vdw�m?           tHom     vdw�m&&Sdaom               NrdKUwGif",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "အံသာ လိတ္တာ၊ အံသာ လိတ္တာရှိသော မြို့တွင်"
+  },
+  {
+    "Form Name": "Label lbl129",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl130",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label lbl228",
+    "Character": "(  )",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label48",
+    "Character": "&&moD",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ရာသီ"
+  },
+  {
+    "Form Name": "Label Label47",
+    "Character": "bm0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "ဘာဝ"
+  },
+  {
+    "Form Name": "Label Label46",
+    "Character": "e0if;",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "နဝင်း"
+  },
+  {
+    "Form Name": "Label Label45",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label45",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label45",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label45",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label45",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label45",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label45",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label45",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label45",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label43",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label43",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label43",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label43",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label43",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label43",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label43",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label43",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label43",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label44",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label42",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label42",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label42",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label42",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label42",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label42",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label42",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label42",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label42",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label41",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label41",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label41",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label41",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label41",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label41",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label41",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label41",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label41",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label40",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label39",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label39",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label39",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label39",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label39",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label39",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label39",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label39",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label39",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label38",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label38",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label38",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label38",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label38",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label38",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label38",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label38",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label38",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label37",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label37",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label37",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label37",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label37",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label37",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label37",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label37",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label37",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label37",
+    "Character": "(rS) xlv '�m(xd)   ocif          xlv\\tE�&&  ocif         tE�&&\\yswE�&&  ocif",
+    "Font Name": "-Win---Innwa",
+    "Unicode": "(မှ) ထူလ ဒဿာ(ထိ) သခင် ထူလ၏အန္တရ သခင် အန္တရ၏ပျတန္တရ သခင်"
+  },
+  {
+    "Form Name": "Label Label36",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label35",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label34",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label33",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label32",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label31",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label30",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label29",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label28",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label27",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label26",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label25",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label24",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label23",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label22",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label21",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label20",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label19",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label18",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label17",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label16",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label15",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label14",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label13",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label12",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label11",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label10",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label9",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label8",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label7",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label6",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label5",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label4",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label3",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label2",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  },
+  {
+    "Form Name": "Label Label1",
+    "Character": "0",
+    "Font Name": "-Win---Innwa",
+    "Unicode": ""
+  }
+]

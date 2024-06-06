@@ -1,0 +1,44 @@
+Form Name,Character,Font Name,Unicode
+Form frmKDATA,Myanmar Astro Horo  Data Input Form,Times New Roman,
+CheckBox Check2,Interval,Times New Roman,
+CheckBox Check1,[k;&&m;em&&D,-Win---Innwa,ဟုရားနာရီ
+Frame Frame2,Frame2,Arial,
+OptionButton Option4,r,-Win---Innwa,မ
+OptionButton Option3,usm;,-Win---Innwa,ကျား
+Frame Frame1,Frame1,Arial,
+OptionButton Option2,English,Tahoma,
+OptionButton Option1,Nrefrm,-Win---Innwa,မြန်မာ
+Label Label55,wdxD C#D,-Win---Innwa,တိထီ ဂဋီ
+Label Label53,a0g[m&&&&ufvGef,-Win---Innwa,‌ဝေါဟာရရက်လွန်
+Label Label50,"uvd,k*f",-Win---Innwa,ကလိယုဂ်
+Label Label47,trnfpm&&if;,-Win---Innwa,အမည်စာရင်း
+Label Label39,(edkifiHNcm;),-Win---Innwa,(နိုင်ငံခြား)
+Label Label38,tHom,-Win---Innwa,အံသာ
+Label Label37,em&&D,-Win---Innwa,နာရီ
+Label Label46,rdepf,-Win---Innwa,မိနစ်
+Label Label42,vdw�m,-Win---Innwa,လိတ္တာ
+Label Label35,"Nrefrmt,e",-Win---Innwa,မြန်မာအယန
+Label Label31,v*foGm;puf,-Win---Innwa,လိဂ်သွားစက်
+Label Label24,om0P&&uf,-Win---Innwa,သာဝဏရက်
+Label Label33,"*sLvD,H&&uf",-Win---Innwa,ဂျူလီယံရက်
+Label Label43,ok'�'def,-Win---Innwa,သုဒ္ဓိန်
+Label Label29,wdxD&&ufvGef,-Win---Innwa,တိထိရက်လွန်
+Label Label26,twmaeU,-Win---Innwa,အတာနေ့
+Label Label19,&&uf,-Win---Innwa,ရက်
+Label Label8,",aeUou�&&mZf &&uf",-Win---Innwa,ယနေ့ သက္ကရာဇ် ရက်
+Label Label6,v,-Win---Innwa,လ
+Label Label1,ESpf,-Win---Innwa,နှစ်
+Label Label21,&&uf,-Win---Innwa,ရက်
+Label Label20,trnf,-Win---Innwa,အမည်
+Label Label19,arG;ou�&&mZf,-Win---Innwa,မွေးသက္ကရာဇ်
+Label Label18,arG;csdef     em&&D,-Win---Innwa,မွေးချိန် နာရီ
+Label Label17,arG;&&yf(NrefrmNynf),-Win---Innwa,မွေးရပ် ( မြန်မာပြည်)
+Label Label16,vw�DusK    'D*&&D,-Win---Innwa,လတ္တီကျု ဒီဂရီ
+Label Label15,avmif*sD*skK  'D*&&D,-Win---Innwa,လောင်ဂျီကျု ဒီဂရီ
+Label Label13,v,-Win---Innwa,လ
+Label Label12,eSpf,-Win---Innwa,နှစ်
+Label Label10,rdepf,-Win---Innwa,မိနစ်
+Label Label9,pu�efY,-Win---Innwa,စက္ကန့် 
+Label Label7,rdepf,-Win---Innwa,မိနစ်
+Label Label5,rdepf,-Win---Innwa,မိနစ်
+Label Label4,pHawmfcsdefeSifh*&&if;epfuGmem&&D,-Win---Innwa,စံတော်ချိန်နှင့်ဂရင်းနစ်ကွာနာရီ

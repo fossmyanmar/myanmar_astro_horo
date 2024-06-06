@@ -75,6 +75,7 @@ venv/
 ENV/
 venv.bak/
 env.bak/
+PyScripts/
 
 # JetBrains IDEs
 .idea/
