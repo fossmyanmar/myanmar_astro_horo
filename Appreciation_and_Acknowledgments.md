@@ -5,7 +5,8 @@
 We extend our heartfelt gratitude to the developers who have contributed their time and expertise to this project. Your efforts are invaluable, and we couldn't have made this progress without you.
 
 - **Kaung Paing** - Original Developer
-- **kokoye2007** - Maintainer and Refactor
+- ** [kokoye2007](https://github.com/kokoye2007) ** - Maintainer and Refactor
+- ** [WinShaine](https://github.com/WinShaine) ** - [Label Data Mapping](https://github.com/fossmyanmar/myanmar_astro_horo/tree/main/data_dict)
 
 ## Tester
 

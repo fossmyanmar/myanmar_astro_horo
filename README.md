@@ -23,7 +23,7 @@ An application originally developed in Visual Basic 6 (VB6) by Kaung Paing in 20
 
 ### Download Latest Build exe
 
-- [MyanmarAstroHoro-FOSS-Latest.exe](https://github.com/fossmyanmar/myanmar_astro_horo/raw/main/bin/MyanmarAstroHoro-FOSS-Latest.exe)
+- [MyanmarAstroHoro-FOSS.exe](https://github.com/fossmyanmar/myanmar_astro_horo/raw/main/bin/MyanmarAstroHoro-FOSS.exe)
 
 ### Setting up VB6 Runtime
 
