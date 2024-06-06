@@ -6,7 +6,7 @@
 
 ## Description
 
-This project is a Myanmar Horoscope App (မြန်မာ ရိုးရာ ဇာတာဖွဲ့ ဆော့ဝဲ).
+This project is a Myanmar Astronomy Horoscope App (မြန်မာ ရိုးရာ ဇာတာဖွဲ့ ဆော့ဝဲ).
 The application is based on the theory of "Surya Siddhanta" (सूर्यसिद्धान्त) (သူရိယသိဒ္ဓန္တ), 
 The Surya Siddhanta is an ancient Indian astronomical text that is highly significant in the history of astronomy.
 
